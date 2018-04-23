@@ -1,0 +1,3 @@
+github Proxy ¼³Á¤
+
+. git config --global http.proxy http://168.219.61.252:8080
