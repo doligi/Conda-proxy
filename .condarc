@@ -1,0 +1,13 @@
+channels:
+  - defaults
+
+# Show channel URLs when displaying what is going to be downloaded and
+# in 'conda list'. The default is False.
+show_channel_urls: true
+allow_other_channels: true
+
+proxy_servers:
+  http: http://168.219.61.252:8080
+  https: https://168.219.61.252:8080
+
+ssl_verify: false
